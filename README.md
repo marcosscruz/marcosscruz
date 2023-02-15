@@ -47,7 +47,7 @@
  <h3>Contact</h3>
  <p align="left">
     <a href="mailto:marcos.v.s.cruz10@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="35" height="35"/>
     </a>
 </p>
 
