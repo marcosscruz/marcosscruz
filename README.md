@@ -48,7 +48,7 @@
 
  <p align="left">
     <a href="https://www.linkedin.com/in/marcos-cruz-167215259/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="40" heigth="40"/>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="35" heigth="35"/>
     </a>
     <a href="mailto:marcos.v.s.cruz10@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="35" height="35"/>
