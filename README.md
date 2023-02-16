@@ -44,7 +44,7 @@
   
  </p>
  
- <h3>Contact</h3>
+ <h3>Contact💬</h3>
 
  <p align="left">
     <a href="mailto:marcos.v.s.cruz10@gmail.com" target="_blank" rel="noreferrer">
