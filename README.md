@@ -1,8 +1,8 @@
-## 👋 Hi, I'm Marcos!
+<h1>👋 Hi, I'm Marcos!</h1>
   
 <p align="left"> Graduating in the course of Information Systems at UFVJM, student of HTML, CSS and Javascript. I am very passionate about the most diverse types of technologies, in addition to starting as a Front-End Developer. 😎💻 </p>
 
-<h3 align="left">Languages and Tools</h3>
+<h2 align="left">Languages and Tools⚙️</h2>
 <p align="left"> Here are some languages and tools that I study/studied or that I already had some contact with. </p>
   
 <p align="left">
@@ -41,12 +41,10 @@
   <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg" alt="rstudio" width="40" heigth="40"/>
   </a>
-  
- </p>
+</p>
  
- <h3>Contact💬</h3>
-
- <p align="left">
+<h2>Contact💬</h2>
+<p align="left">
     <a href="mailto:marcos.v.s.cruz10@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="35" height="35"/>
     </a>
