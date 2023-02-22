@@ -3,6 +3,7 @@
 <p align="left"> Graduating in the course of Information Systems at UFVJM, student of HTML, CSS and Javascript. I am very passionate about the most diverse types of technologies, in addition to starting as a Front-End Developer. 😎💻 </p>
 
 <h2 align="left">Languages and Tools⚙️</h2>
+
 <p align="left"> Here are some languages and tools that I study/studied or that I already had some contact with. </p>
   
 <p align="left">
