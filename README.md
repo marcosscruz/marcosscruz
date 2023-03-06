@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Marcos!</h1>
   
-<p align="left"> Graduating in the course of Information Systems at UFVJM, student of HTML, CSS and Javascript. I am very passionate about the most diverse types of technologies, in addition to starting as a Front-End Developer. 😎💻 </p>
+<p align="left"> Graduating in the course of Information Systems at UFVJM, student of HTML, CSS and Javascript. I am very passionate about the most diverse types of technologies, in addition to starting as a Web Front-End Developer. 😎💻 </p>
 
 <h2 align="left">Languages and Tools⚙️</h2>
 
