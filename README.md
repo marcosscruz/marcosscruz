@@ -25,7 +25,11 @@
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
+  </a>
+
+  <a href="https://www.java.com/pt-BR/" teget="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" wif=dth="40" height="40"/>
+  </a>
   
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
@@ -48,6 +52,9 @@
 <p align="left">
     <a href="mailto:marcos.v.s.cruz10@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="35" height="35"/>
+    </a>
+    <a href="https://www.linkedin.com/in/marcos-cruz-167215259/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="50" height="37"/>
     </a>
 </p>
 
