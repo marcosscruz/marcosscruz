@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Marcos!</h1>
   
-<p align="left"> Graduating in the course of Information Systems at UFVJM, student of HTML, CSS and Javascript. I am very passionate about the most diverse types of technologies, in addition to starting as a Front-End Developer. 😎💻 </p>
+<p align="left"> Graduating in the course of Information Systems at UFVJM, student of HTML, CSS and Javascript. I am very passionate about the most diverse types of technologies, in addition to starting as a Web Front-End Developer. 😎💻 </p>
 
 <h2 align="left">Languages and Tools⚙️</h2>
 
@@ -27,8 +27,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
   </a>
 
-  <a href="https://www.java.com/pt-BR/" teget="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" wif=dth="40" height="40"/>
+  <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" widht="40" height="40"/>
   </a>
   
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
@@ -48,7 +48,7 @@
   </a>
 </p>
  
-<h2>Contact💬</h2>
+<h2>Contact 💬</h2>
 <p align="left">
     <a href="mailto:marcos.v.s.cruz10@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="35" height="35"/>
