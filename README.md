@@ -54,7 +54,7 @@
         <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="35" height="35"/>
     </a>
     <a href="https://www.linkedin.com/in/marcos-cruz-167215259/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="50" height="37"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="37"/>
     </a>
 </p>
 
