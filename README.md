@@ -7,7 +7,7 @@
 <p align="left"> Here are some languages and tools that I study/studied or that I already had some contact with. </p>
   
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/> 
   </a>
   
