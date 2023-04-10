@@ -66,8 +66,3 @@
   <a href="https://github.com/marcosscruz"> 
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosscruz&layout=compact&langs_count=7&theme=dracula" style="display: inline_block"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosscruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="display: inline_block"/>
-<<<<<<< HEAD
-</div>
-=======
-</div>
->>>>>>> e74a8699a9fd66fb23c48f3d7fbd6a197974b9dc
