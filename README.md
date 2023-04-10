@@ -46,6 +46,10 @@
   <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg" alt="rstudio" width="40" heigth="40"/>
   </a>
+
+  <a href="https://www.canva.com/pt_br/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  alt="canva" width="40" heigth="40" />
+  </a>
 </p>
  
 <h2>Contact 💬</h2>
