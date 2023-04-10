@@ -53,16 +53,18 @@
 </div>
  
 <h2>Contact 💬</h2>
-<div style="left">
-    <a href="mailto:marcos.v.s.cruz10@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="35" height="35"/>
-    </a>
-    <a href="https://www.linkedin.com/in/marcos-cruz-167215259/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="37"/>
-    </a>
+<div style="display: inline_block">
+   <a href="https://www.linkedin.com/in/marcos-cruz-167215259/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   </a>
+   <a href = "mailto:marcos.v.s.cruz10@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
 
 <div align="left" style="display: inline_block">
   <a href="https://github.com/marcosscruz"> 
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosscruz&layout=compact&langs_count=7&theme=dark" style="display: inline_block"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosscruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="display: inline_block"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosscruz&layout=compact&langs_count=7&theme=dark" style="display: inline_block"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosscruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="display: inline_block"/>
+  </a>
+</div>
