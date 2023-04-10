@@ -1,12 +1,12 @@
 <h1>👋 Hi, I'm Marcos!</h1>
   
-<p align="left"> Graduating in the course of Information Systems at UFVJM, student of HTML, CSS and Javascript. I am very passionate about the most diverse types of technologies, in addition to starting as a Web Front-End Developer. 😎💻 </p>
+<div style="left"> Graduating in the course of Information Systems at UFVJM, student of HTML, CSS and Javascript. I am very passionate about the most diverse types of technologies, in addition to starting as a Web Front-End Developer. 😎💻 </div>
 
-<h2 align="left">Languages and Tools⚙️</h2>
+<h2 style="left">Languages and Tools⚙️</h2>
 
-<p align="left"> Here are some languages and tools that I study/studied or that I already had some contact with. </p>
+<div style="left"> Here are some languages and tools that I study/studied or that I already had some contact with. </div>
   
-<p align="left">
+<div style="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/> 
   </a>
@@ -50,15 +50,22 @@
   <a href="https://www.canva.com/pt_br/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  alt="canva" width="40" heigth="40" />
   </a>
-</p>
+</div>
  
 <h2>Contact 💬</h2>
-<p align="left">
+<div style="left">
     <a href="mailto:marcos.v.s.cruz10@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="35" height="35"/>
     </a>
     <a href="https://www.linkedin.com/in/marcos-cruz-167215259/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="37"/>
     </a>
-</p>
+</div>
 
+<div align="left" style="display: inline_block">
+  <a href="https://github.com/marcosscruz"> 
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoMAF&layout=compact&langs_count=7&theme=dracula" style="display: inline_block"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iagoMAF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="display: inline_block"/>
+</div>
+
+![Snake animation](https://github.com/marcosscruz/marcosscruz/blob/output/github-contribution-grid-snake.svg)
