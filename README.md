@@ -64,5 +64,5 @@
 
 <div align="left" style="display: inline_block">
   <a href="https://github.com/marcosscruz"> 
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosscruz&layout=compact&langs_count=7&theme=dracula" style="display: inline_block"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosscruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="display: inline_block"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosscruz&layout=compact&langs_count=7&theme=dark" style="display: inline_block"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosscruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="display: inline_block"/>
