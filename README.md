@@ -1,10 +1,11 @@
 <h1>👋 Hi, I'm Marcos!</h1>
   
-<div style="left"> Graduating in the course of Information Systems at UFVJM, student of HTML, CSS and Javascript. I am very passionate about the most diverse types of technologies, in addition to starting as a Web Front-End Developer. 😎💻 </div>
+<div style="left"> Graduando do curso de Sistemas de Informação da UFVJM, estudando pricnipalmenute HTML, CSS e Javascript. Sou apaixonado pelos mais diversos tipos de tecnologias e procuro me arriscar fora da minha zona para me desafiar cada vez mais.
+</div>
 
 <h2 style="left">Languages and Tools⚙️</h2>
 
-<div style="left"> Here are some languages and tools that I study/studied or that I already had some contact with. </div>
+<div style="left"> Aqui estão algumas linguegens e ferramentas que utiliso e estudo. </div>
   
 <div style="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
