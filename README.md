@@ -5,7 +5,7 @@
 
 <h2 style="left">Languages and Tools⚙️</h2>
 
-<div style="left"> Aqui estão algumas linguegens e ferramentas que utiliso e estudo. </div>
+<div style="left"> Aqui estão algumas linguegens e ferramentas que utilizo e estudo. </div>
   
 <div style="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
