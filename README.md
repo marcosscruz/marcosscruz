@@ -34,12 +34,11 @@
 </div>
  
 <div align="center" style="display: inline_block">
-  <a href="https://github.com/marcosscruz">
-    <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=marcosscruz&theme=dracula&_icons=true" />
-  </a>
-  <a href="https://github.com/marcosscruz"> 
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosscruz&layout=compact&langs_count=7&theme=dracula" style="display: inline_block"/>
-  </a>
+   
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosscruz&theme=dracula&_icons=true" />
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosscruz&layout=compact&langs_count=7&theme=dracula" style="display: inline_block"/>
+  
 </div>
 
 <h2>Contact 💬</h2>
