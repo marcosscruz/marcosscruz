@@ -35,7 +35,7 @@
 
 <div style="display: inline_block">
   
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=marcosscruz&theme=dracula&_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosscruz&theme=dracula&_icons=true" />
 
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosscruz&layout=compact&langs_count=16&theme=dracula" />
 
