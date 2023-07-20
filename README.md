@@ -33,6 +33,15 @@
   </a>
 </div>
  
+<div align="center" style="display: inline_block">
+  <a href="https://github.com/marcosscruz">
+    <img  src="https://github-readme-stats.vercel.app/api?username=marcosscruz&theme=dracula&_icons=true" />
+  </a>
+  <a href="https://github.com/marcosscruz"> 
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosscruz&layout=compact&langs_count=7&theme=dracula" style="display: inline_block"/>
+  </a>
+</div>
+
 <h2>Contact 💬</h2>
 <div style="display: inline_block">
    <a href="https://www.linkedin.com/in/marcos-cruz-167215259/" target="_blank">
@@ -40,11 +49,5 @@
    </a>
    <a href = "mailto:marcos.v.s.cruz10@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
-
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/marcosscruz"> 
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosscruz&layout=compact&langs_count=7&theme=dracula" style="display: inline_block"/>
   </a>
 </div>
