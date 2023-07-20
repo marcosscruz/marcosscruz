@@ -32,14 +32,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
   </a>
 </div>
- 
-<!-- <div align="center" style="display: inline_block">
-   
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosscruz&theme=dracula&_icons=true" />
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosscruz&layout=compact&langs_count=7&theme=dracula" style="display: inline_block"/>
+<div style="display: inline_block">
   
-</div> -->
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=marcosscruz&theme=dracula&_icons=true" />
+
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosscruz&layout=compact&langs_count=16&theme=dracula" />
+
+</div>
 
 <h2>Contact 💬</h2>
 <div style="display: inline_block">
@@ -49,12 +49,4 @@
    <a href = "mailto:marcos.v.s.cruz10@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-</div>
-
-<div style="display: inline_block">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosscruz&theme=midnight-purple&_icons=true" />
-
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosscruz&layout=compact&langs_count=16&theme=midnight-purple" />
-
 </div>
