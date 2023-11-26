@@ -1,4 +1,6 @@
-  <img align="center" width="300" height="200" src="https://media.giphy.com/media/7fSp8PUG1L5eHVZbHz/giphy.gif">
+  <div align="center">
+    <img align="center" width="300" height="200" src="https://media.giphy.com/media/7fSp8PUG1L5eHVZbHz/giphy.gif">
+  </div>
 
   <div align="center">
   <!-- Work Links -->
@@ -30,5 +32,5 @@ Estou formando em <b>Sistemas de Infotmação</b> pela UFVJM e atualmente estou 
   <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
   <!-- Figma --> <img src="https://img.shields.io/badge/Figma%20-ff0000?style=for-the-badge&logo=figma&logoColor=white">
   <br>
+  <img width="300" height="200" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
 </div>
-  <img align="center" width="300" height="200" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
