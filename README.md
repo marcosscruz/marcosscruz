@@ -1,44 +1,34 @@
-<h1>👋 Hi, I'm Marcos!</h1>
-  
-<div style="left"> Graduando do curso de Sistemas de Informação da UFVJM, estudando pricnipalmenute HTML, CSS e Javascript. Sou apaixonado pelos mais diversos tipos de tecnologias e procuro me arriscar fora da minha zona para me desafiar cada vez mais.
+  <img align="center" width="300" height="200" src="https://media.giphy.com/media/7fSp8PUG1L5eHVZbHz/giphy.gif">
+
+  <div align="center">
+  <!-- Work Links -->
+  <a href="https://www.linkedin.com/in/marcos-cruz-167215259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marcos.v.s.cruz10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <!-- OTH Links -->
+    <a href="https://open.spotify.com/user/00v7dq20u9sjfhlppavgey9bx" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
+  <a href="https://steamcommunity.com/id/mascoss/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
+    
+## ⭐️ Sobre mim
 
-<h2 style="left">Languages and Tools⚙️</h2>
+Estou formando em <b>Sistemas de Infotmação</b> pela UFVJM e atualmente estou estudando para seguir na carreira de <b>Desenvolvedor</b>. Também tenho certo interesse de trabalhar com desenvolvimento jogos, principalmente usando o <b>Game Maker Studio 2</b> e ando ampliando meu conhecimento em Desenvolvimento Web.
+<br><br>
 
-<div style="left"> Aqui estão algumas linguegens e ferramentas que utilizo e estudo. </div>
-  
-<div style="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
-  </a>
+<b>Além da programação...</b>
 
-  <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" widht="40" height="40"/>
-  </a>
+- Amo ler Mangás, já perdi as contas de quantos li. Meus Big Three: <b>One Piece, Vagabond e Jujutsu Kaisen</b>.
+- Gosto de jogos do genero indie, action-RPG e co-op.
+- Adoro esportes, principalmente Basquete. Se me chamarem para jogar qualquer esporte, irei sem nem pensar duas vezes.
+- Humor quebrado e gosto musical duvidoso.
+
+## 😎 Tecnologias
   
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
-  </a>
+  <div align="center">
+  <!-- Python --> <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white">
+  <!-- Java --> <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white">
+  <!-- C++ --> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+  <!-- Figma --> <img src="https://img.shields.io/badge/Figma%20-ff0000?style=for-the-badge&logo=figma&logoColor=white">
+  <br>
 </div>
-
-<h2>Contact 💬</h2>
-<div style="display: inline_block">
-   <a href="https://www.linkedin.com/in/marcos-cruz-167215259/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-   </a>
-   <a href = "mailto:marcos.v.s.cruz10@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
+  <img align="center" width="300" height="200" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
