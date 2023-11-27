@@ -39,7 +39,9 @@ Estou formando em <b>Sistemas de Infotmação</b> pela UFVJM e atualmente estuda
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
 
 
+<div aling="center">
   <img width="300" height="200" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
 </div>
