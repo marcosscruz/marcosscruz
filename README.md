@@ -42,6 +42,6 @@ Estou formando em <b>Sistemas de Infotmação</b> pela UFVJM e atualmente estuda
 </div>
 
 
-<div aling="center">
+<div align="center">
   <img width="300" height="200" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
 </div>
