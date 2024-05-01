@@ -4,10 +4,19 @@
   </a> 
 </div> 
 
-#
+  <div align="center">
+  <!-- Work Links -->
+  <!-- <a href="https://www.linkedin.com/in/marcos-cruz-167215259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
+  <a href = "mailto:marcos.v.s.cruz10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <!-- OTH Links -->
+    <a href="https://open.spotify.com/user/00v7dq20u9sjfhlppavgey9bx" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
+  <a href="https://steamcommunity.com/id/mascoss/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+</div>
+    
+## ⭐️ Sobre mim
 
-<p>
-  Estou formando em <b>Sistemas de Infotmação</b> pela UFVJM e atualmente estudando para seguir na carreira de <b>Desenvolvedor</b>. Também tenho certo interesse de trabalhar com desenvolvimento jogos, principalmente usando o <b>Game Maker Studio</b> e ando lapidando meu conhecimento em Desenvolvimento Web.
+Estou formando em <b>Sistemas de Infotmação</b> pela UFVJM e atualmente estudando para seguir na carreira de <b>Desenvolvedor</b>. Também tenho certo interesse de trabalhar com desenvolvimento jogos, principalmente usando o <b>Game Maker Studio 2</b> e ando desenvolvendo meu conhecimento em Desenvolvimento Web.
+<br><br>
 
   <b>Além da programação...</b>
 
@@ -49,4 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="25" alt="figma logo" />
 </div>
 
-#
+
+<div align="center">
+  <img width="300" height="200" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
+</div>
