@@ -25,7 +25,7 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=A00000&color:FFF)](mailto:marcos.v.s.cruz10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A00000&color:FFF)](https://www.linkedin.com/in/marcosscruz/)
-[![Steam](https://img.shields.io/badge/-Steam-000?style=for-the-badge&logo=steam&logoColor=A00&color:FFF)](https://steamcommunity.com/id/mascoss/)
+[![Steam](https://img.shields.io/badge/-Steam-000?style=for-the-badge&logo=steam&logoColor=A00&color:FFF)](https://steamcommunity.com/id/mamarcos/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=A00&color:FFF)](https://www.instagram.com/mamarrcos/)
 
 <h3 align="left">My stacks ~</h3>
@@ -48,5 +48,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="25" alt="figma logo" />
 </div>
-
-#
