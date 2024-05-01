@@ -8,7 +8,7 @@
   <a href = "mailto:marcos.v.s.cruz10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <!-- OTH Links -->
     <a href="https://open.spotify.com/user/00v7dq20u9sjfhlppavgey9bx" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
-  <a href="https://steamcommunity.com/id/mascoss/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/mascoss/](https://steamcommunity.com/id/mamarcos/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
     
 ## ⭐️ Sobre mim
