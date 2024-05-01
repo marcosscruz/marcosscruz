@@ -7,8 +7,8 @@
   <!-- <a href="https://www.linkedin.com/in/marcos-cruz-167215259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:marcos.v.s.cruz10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <!-- OTH Links -->
-  <a href="https://open.spotify.com/user/00v7dq20u9sjfhlppavgey9bx" target="_blank" windoq="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
-  <a href="https://steamcommunity.com/id/mamarcos/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/00v7dq20u9sjfhlppavgey9bx" target="_blank" window="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://steamcommunity.com/id/mamarcos/" target="_blank" window="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 </div>
     
 ## ⭐️ Sobre mim
