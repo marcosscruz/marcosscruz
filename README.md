@@ -7,7 +7,7 @@
 #
 
 <p>
-  Estou formando em <b>Sistemas de Infotmação</b> pela UFVJM e atualmente estudando para seguir na carreira de <b>Desenvolvedor</b>. Também tenho certo interesse de trabalhar com desenvolvimento jogos, principalmente usando o <b>Game Maker Studio</b> e ando lapidando meu conhecimento em Desenvolvimento Web.
+  Estou formando em <b>Sistemas de Informação</b> pela UFVJM e atualmente estudando para seguir na carreira de <b>Desenvolvedor</b>. Também tenho certo interesse de trabalhar com desenvolvimento jogos, principalmente usando o <b>Game Maker Studio</b> e ando lapidando meu conhecimento em Desenvolvimento Web.
 
   <b>Além da programação...</b>
 
