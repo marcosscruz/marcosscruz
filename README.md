@@ -7,7 +7,7 @@
 #
 
 <p>
-  Estou formando em <b>Sistemas de Informação</b> pela UFVJM e atualmente estudando para seguir na carreira de <b>Desenvolvedor</b>. Também tenho certo interesse em trabalhar com desenvolvimento jogos, mias precisamente usando o <b>Game Maker Studio</b>. Me interesso tanto por front quanto por back-end, e minhas principais linguagens são Java e Python. Estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
+  Estou formando em <b>Sistemas de Informação</b> pela UFVJM e atualmente estudando para seguir na carreira de <b>Desenvolvedor</b>. Também tenho certo interesse em trabalhar com desenvolvimento jogos, maiss precisamente usando o <b>Game Maker Studio</b>. Me interesso tanto por front quanto por back-end, e minhas principais linguagens são Java e Python. Estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
   <b>Além da programação...</b>
 
