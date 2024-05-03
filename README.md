@@ -7,13 +7,13 @@
 #
 
 <p>
-  Estou formando em <b>Sistemas de Informação</b> pela UFVJM e atualmente estudando para seguir na carreira de <b>Desenvolvedor</b>. Também tenho certo interesse em trabalhar com desenvolvimento jogos, mais precisamente usando o <b>Game Maker Studio</b>. Me interesso tanto por front quanto por back-end, e minhas principais linguagens são Java e Python. Estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
+  Estou formando em <b>Sistemas de Informação</b> pela UFVJM e atualmente estudando para seguir na carreira de <b>Desenvolvedor</b>. Também tenho certo interesse em trabalhar com desenvolvimento jogos. Me interesso tanto por front quanto por back-end, e minhas principais linguagens são Java e Python. Estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
   <b>Além da programação...</b>
 
-  - Gosto de ler mangás, perdi a conta de quantos li. Meu Top: <b>One Piece, Vagabond, Berserk e Jujutsu Kaisen</b>.
+  - Leio bastante mangás que já perdi a conta de quantos li. Meu Top: <b>One Piece, Vagabond, Berserk e Jujutsu Kaisen</b>.
   - Gosto de jogar no meu tempo livre, principalmente jogos do genero indie, action-RPG e co-op.
-  - Pratico diversos esportes, principalmente Basquete. Se me chamarem para jogar qualquer coisa, irei sem nem pensar duas vezes.
+  - Pratico diversos esportes, apaixonado por Basquete. Se me chamarem para praticar qualquer coisa, irei sem nem pensar duas vezes.
   - Humor quebrado e gosto musical duvidoso.
 </p>
 
