@@ -7,14 +7,14 @@
 #
 
 <p>
-  Estou formando em <b>Sistemas de Informação</b> pela UFVJM e atualmente estudando para seguir na carreira de <b>Desenvolvedor</b>. Também tenho certo interesse em trabalhar com desenvolvimento jogos. Me interesso tanto por front quanto por back-end, e minhas principais linguagens são Java e Python. Estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
+  I am graduating in <b>Information Systems</b> from UFVJM and currently studying to pursue a career as a Developer. I also have a keen interest in working with game development. I am interested in both front-end and back-end development, and my main programming languages are Java and Python. I constantly study and stay updated in the tech field because I love learning and using my knowledge to create innovative solutions!
 
-  <b>Além da programação...</b>
+  <b>Besides programming...</b>
 
-  - Leio bastante mangás que já perdi a conta de quantos li. Meu Top: <b>One Piece, Vagabond, Berserk e Jujutsu Kaisen</b>.
-  - Gosto de jogar no meu tempo livre, principalmente jogos do genero indie, action-RPG e co-op.
-  - Pratico diversos esportes, apaixonado por Basquete. Se me chamarem para praticar qualquer coisa, irei sem nem pensar duas vezes.
-  - Humor quebrado e gosto musical duvidoso.
+  - I read a lot of manga, so many that I’ve lost count. My top favorites are <b>One Piece, Vagabond, Berserk, and Jujutsu Kaisen.</b>
+  - I enjoy gaming in my free time, especially indie, action-RPG, and co-op games.
+  - I practice various sports, and I’m passionate about basketball. If someone invites me to play anything, I won’t even think twice.
+  - Broken sense of humor and questionable taste in music.
 </p>
 
 #
@@ -31,13 +31,11 @@
 <h3 align="left">My stacks ~</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"" height="25" alt="python logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="25" alt="django logo" />        
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="8" />
