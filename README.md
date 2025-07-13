@@ -1,11 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A00000&random=false&width=435&lines=*++Welcome+to+my+profile!++%3AD++*" alt="Typing SVG" />
-  </a> 
-</div> 
-
-#
-
 <p>
   I am graduating in <b>Information Systems</b> from UFVJM and currently studying to pursue a career as a Developer. I also have a keen interest in working with game development. I am interested in both front-end and back-end development, and my main programming languages are Java and Python. I constantly study and stay updated in the tech field because I love learning and using my knowledge to create innovative solutions!
 
